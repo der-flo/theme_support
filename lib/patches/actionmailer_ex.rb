@@ -5,10 +5,6 @@ module ActionMailer
     alias_method :__render, :render
     alias_method :__initialize, :initialize
   
-    @current_theme = nil
-  
-    attr_accessor :current_theme
-   
     def initialize(method_name=nil, *parameters)
       if parameters[-1].is_a?(Hash) and (parameters[-1].include? :theme)
         @current_theme = parameters[-1][:theme]
@@ -94,8 +90,5 @@ module ActionMailer
       # build the mail object itself
       @mail = create_mail
     end
-
-    
-   
   end
 end

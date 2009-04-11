@@ -1,0 +1,337 @@
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:47:05) [GET]
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:47:29) [GET]
+Completed in 12ms (View: 1, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:47:31) [GET]
+Completed in 10ms (View: 0, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:48:09) [GET]
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:48:27) [GET]
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:48:32) [GET]
+Rendering home/index
+Completed in 48ms (View: 37, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:48:46) [GET]
+Rendering home/index
+Completed in 12ms (View: 4, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:48:49) [GET]
+Rendering home/index
+Completed in 12ms (View: 3, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:51:36) [GET]
+Rendering home/index
+Completed in 16ms (View: 7, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:51:39) [GET]
+Rendering home/index
+Completed in 15ms (View: 7, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:52:46) [GET]
+Rendering home/index
+Completed in 16ms (View: 7, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:52:46) [GET]
+Rendering home/index
+Completed in 5ms (View: 5, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:52:51) [GET]
+Rendering home/index
+Completed in 16ms (View: 7, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:52:54) [GET]
+Rendering home/index
+Completed in 16ms (View: 7, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:53:27) [GET]
+Rendering home/index
+Completed in 17ms (View: 8, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:53:48) [GET]
+Rendering home/index
+Completed in 17ms (View: 9, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:54:02) [GET]
+Rendering home/index
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:54:05) [GET]
+Rendering home/index
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:56:59) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 20ms (View: 11, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:56:59) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:57:42) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 23ms (View: 14, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 12:57:42) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 11ms (View: 11, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:12:56) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 26ms (View: 16, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:12:56) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 11ms (View: 11, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:17:21) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 37ms (View: 28, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:17:21) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 12ms (View: 12, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:18:24) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 23ms (View: 14, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:18:24) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 11ms (View: 11, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:20:58) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 31ms (View: 20, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:20:58) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:22:14) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 27ms (View: 18, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 13:22:14) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:02:58) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 29ms (View: 19, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:02:58) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:03:41) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 28ms (View: 19, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:03:41) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 14ms (View: 14, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:04:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 30ms (View: 18, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:04:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 14ms (View: 14, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:06:24) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 30ms (View: 21, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:06:24) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:08:13) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 29ms (View: 20, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:08:13) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:08:16) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 28ms (View: 19, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:08:16) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:08:34) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 28ms (View: 19, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:08:34) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 18ms (View: 18, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:08:50) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 29ms (View: 20, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 14:08:50) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 18ms (View: 18, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:32:18) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 84ms (View: 74, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:32:19) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:32:41) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 85ms (View: 75, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:32:41) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 18ms (View: 18, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:43:27) [GET]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:43:28) [GET]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:44:59) [GET]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:44:59) [GET]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:47:35) [GET]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:47:35) [GET]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:47:48) [GET]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:47:48) [GET]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:58:00) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 75ms (View: 66, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:58:00) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 17ms (View: 17, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:59:11) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 76ms (View: 66, DB: 0) | 200 OK [http://test.host/]
+
+
+Processing HomeController#index (for 0.0.0.0 at 2009-04-11 17:59:11) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://test.host/]

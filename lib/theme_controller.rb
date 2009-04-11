@@ -5,26 +5,32 @@ class ThemeController < ActionController::Base
   after_filter :cache_theme_files
   
   def stylesheets
-    render_theme_item(:stylesheets, params[:filename].to_s, params[:theme], 'text/css')
+    render_theme_item(:stylesheets, joined_filename, params[:theme], 'text/css')
   end
 
   def javascript
-    render_theme_item(:javascript, params[:filename].to_s, params[:theme], 'text/javascript')
+    render_theme_item(:javascript, joined_filename, params[:theme], 'text/javascript')
   end
 
   def images
-    render_theme_item(:images, params[:filename].to_s, params[:theme])
+    render_theme_item(:images, joined_filename, params[:theme])
   end
 
   def error
-    render :nothing => true, :status => 404
+    send_404
   end
   
   private
   
   def render_theme_item(type, file, theme, mime = mime_for(file))
-    render :text => "Not Found", :status => 404 and return if file.split(%r{[\\/]}).include?("..")
-    send_file "#{Theme.path_to_theme(theme)}/#{type}/#{file}", :type => mime, :disposition => 'inline', :stream => false
+
+    send_404 and return if file.split(%r{[\\/]}).include?("..")
+    begin
+      send_file "#{Theme.path_to_theme(theme)}/#{type}/#{file}", :type => mime,
+                :disposition => 'inline', :stream => false
+    rescue ActionController::MissingFile
+      send_404
+    end
   end
 
   def cache_theme_files
@@ -54,8 +60,13 @@ class ThemeController < ActionController::Base
     else
       'application/binary'
     end
-  end  
+  end
+
+  def send_404
+    render :nothing => true, :status => 404
+  end
+  def joined_filename
+    params[:filename].join '/'
+  end
 
 end
-
-
